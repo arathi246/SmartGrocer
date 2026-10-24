@@ -1,0 +1,6 @@
+{
+  "name": "Smart Food Distribution Manager",
+  "description": "Comprehensive food distribution and inventory management app for order tracking, stock alerts, expiry FEFO management, payments, deliveries, and business reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
